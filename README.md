@@ -5,6 +5,7 @@
 Soldier-quest is a 2d pygame the renders a character on a platformer-style world. The player must battle their way through 3 levels composed of obsitcals and AI powerd enemys. The player is equiped with gernades and a gun. this game's features include:
 
   * custom menu screen
+  * level editor to create cusom levels
   * Baisc AI
   * Reactive Sprite animations
   * Sound Effects
