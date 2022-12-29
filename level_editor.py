@@ -9,7 +9,7 @@ clock = pygame.time.Clock()
 FPS = 60
 
 #game window
-SCREEN_WIDTH = 800
+SCREEN_WIDTH = 1366
 SCREEN_HEIGHT = 640
 LOWER_MARGIN = 100
 SIDE_MARGIN = 300
